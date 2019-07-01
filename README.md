@@ -1,6 +1,16 @@
 # AI Patents Data 2019
 
+## About
+
 In April 2019, IPlytics released a report analyzing 448,684 patents filed over the last 10 years in the field of AI [1]. I have adapted a chart published by Statista [2] to include additional data from the IPlytics report, including metrics for technical relevance and filings by country.
+
+I have [posted the following chart on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6551404459820359680):
+
+![AI Patents by company and country](AI_Patents.png)
+
+## Data
+
+Below are the data behind the numbers in the chart.
 
 Here is the data from the IPlytics report:
 
@@ -75,6 +85,7 @@ Switzerland     | 8591365
 Turkey          | 83429615
 United Kingdom  | 67530172
 
+## References
 
 * [1] [IPlytics report: Who is patenting AI technology?](https://www.iplytics.com/wp-content/uploads/2019/03/IPlytics-AI-report.pdf) (accessed 2019-07-01)
 * [2] [ECN Magazine: The Companies with the Most AI Patents](https://www.ecnmag.com/news/2019/05/companies-most-ai-patents) (accessed 2019-07-01)
