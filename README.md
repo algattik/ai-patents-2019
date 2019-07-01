@@ -90,5 +90,5 @@ United Kingdom  | 67530172
 * [1] [IPlytics report: Who is patenting AI technology?](https://www.iplytics.com/wp-content/uploads/2019/03/IPlytics-AI-report.pdf) (accessed 2019-07-01)
 * [2] [ECN Magazine: The Companies with the Most AI Patents](https://www.ecnmag.com/news/2019/05/companies-most-ai-patents) (accessed 2019-07-01)
 * [3] [Wikipedia: List of countries by population (United Nations)
-] (https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations))(accessed 2019-07-01)
+] (https://en.wikipedia.org/wiki/List_of_countries_by_population_%28United_Nations%29)(accessed 2019-07-01)
 * [4] [Wikipedia: European Patent Organisation](https://en.wikipedia.org/wiki/European_Patent_Organisation) (accessed 2019-07-01)
